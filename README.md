@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1 align="center">H, I'm Bala Chandhu! 👋</h1>
+<h1 align="center">Hi, I'm Bala Chandhu! 👋</h1>
 
 An Associate Software Engineer and AI/ML Engineer passionate about building intelligent, data-driven solutions that solve real business problems. I specialize in Machine Learning, Generative AI, and predictive analytics, with hands-on experience designing scalable systems that turn raw data into meaningful insights.<br><br>Currently at Accenture, I develop and deploy ML solutions that enhance forecasting, customer analytics, and operational decision-making. My work spans time-series forecasting, predictive modeling, and customer intelligence systems, with a strong focus on improving model accuracy, automation, and real-world business impact.<br><br>I am also a certified AI and cloud professional, holding the AWS Certified AI Practitioner and Databricks Certified Generative AI Engineer Associate credentials, which strengthen my expertise in building and deploying modern AI and Generative AI solutions on cloud platforms.<br><br>I’ve worked across the complete ML lifecycle — from data preprocessing and feature engineering to model optimization and scalable cloud deployment — turning complex datasets into production-ready AI systems.<br><br>
 
